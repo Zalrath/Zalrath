@@ -2,7 +2,6 @@
 
 # Hey! I'm Megan, a final year Mechatronic Engineering student @ AUT.
 
---- 
 
 ## Projects
 
